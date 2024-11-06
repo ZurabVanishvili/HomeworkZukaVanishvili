@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?><!-- res/drawable/black_gradient_rectangle.xml -->
+<!-- res/drawable/black_gradient_left_to_right.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <gradient
+        android:angle="0"
+        android:endColor="#000000"
+        android:startColor="@color/blue" />
+
+    <corners android:radius="14dp" />
+    <stroke
+        android:color="@color/black" />
+</shape>
+
